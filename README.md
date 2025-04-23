@@ -70,7 +70,7 @@ Os dados do usuário não são enviados para um servidor, portanto, não há ris
 - **Passos**:
   1. Preencher o formulário com as seguintes informações:
      - Nome: "João Silva"
-     - Data de Nascimento: "1990-05-15"
+     - Data de Nascimento: "10/10/2010"
      - E-mail: "joao@exemplo.com"
      - CPF: "123.456.789-09"
      - Telefone: "(11)91234-5678"
