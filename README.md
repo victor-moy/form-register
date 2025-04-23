@@ -1,5 +1,7 @@
 # Cadastro de Usuário - Sistema de Validação
 
+Equipe: Andressa Rodrigues, Jhessica Alves, Laíza Silva e Victor Moy
+
 ## Objetivo
 
 Este sistema permite realizar o cadastro de um usuário com os seguintes campos:
