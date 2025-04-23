@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cadastro com Validação</title>
+  </head>
+  <body>
+    <h2>Formulário de Cadastro</h2>
+    <form id="cadastroForm">
+      <label>
+        Nome:
+        <input type="text" name="nome" required /> </label
+      ><br /><br />
+
+      <label>
+        Data de Nascimento:
+        <input type="date" name="dataNascimento" required /> </label
+      ><br /><br />
+
+      <label>
+        E-mail:
+        <input type="email" name="email" required /> </label
+      ><br /><br />
+
+      <label>
+        CPF:
+        <input type="text" name="cpf" maxlength="14" required /> </label
+      ><br /><br />
+
+      <label>
+        Telefone:
+        <input type="tel" name="telefone" maxlength="15" required /> </label
+      ><br /><br />
+
+      <button type="submit">Cadastrar</button>
+    </form>
+
+    <!-- Mensagem de feedback -->
+    <div id="mensagem" style="margin-top: 20px; font-weight: bold"></div>
+
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </body>
+</html>
